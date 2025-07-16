@@ -45,5 +45,5 @@ A modern, responsive, and highly customizable implementation of the classic 2048
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-2048-game-repo.git
-   cd your-2048-game-repo
+   git clone https://github.com/bradleyshazima/my2048game.git
+   cd my2048game
